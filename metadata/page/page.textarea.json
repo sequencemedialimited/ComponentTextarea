@@ -1,0 +1,14 @@
+{
+  "_id": "page.textarea",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.textarea--textarea.auto_name__1",
+      "_type": "textarea",
+      "hint": "Textarea hint text",
+      "label": "Textarea",
+      "name": "auto_name__1"
+    }
+  ],
+  "url": "textarea"
+}

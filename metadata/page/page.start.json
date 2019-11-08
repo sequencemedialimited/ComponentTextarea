@@ -4,7 +4,8 @@
   "heading": "Component - Textarea",
   "steps": [
     "page.textarea",
-    "page.check-answers"
+    "page.check-answers",
+    "page.confirmation"
   ],
   "url": "/"
 }
